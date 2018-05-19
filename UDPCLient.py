@@ -3,7 +3,7 @@
 from socket import *
 
 # To what host data is doing and to what port
-serverName = '10.0.0.70'
+serverName = '10.0.0.117'
 serverPort = 12000
 
 # Addres family: AF_INET means underlying network is using IPv4
